@@ -1,0 +1,2 @@
+model_checkpoint_path: "tf_vars"
+all_model_checkpoint_paths: "tf_vars"
