@@ -3,7 +3,7 @@
 
 import numpy as np
 
-from hmm2.common import log_sum_exp
+from common import log_sum_exp
 
 
 def calc_alpha(pi, A, B, Q, alpha, fetch_index_by_obs_seq=None):
